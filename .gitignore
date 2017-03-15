@@ -1,0 +1,34 @@
+# Byte-compiled code
+*.py[cod]
+
+# Shell scripts
+*.sh
+
+# V-REP libraries
+remoteApi.so
+vrepConst.py
+vrep.py
+
+# Virtual environment
+venv/
+virtualenv/
+
+# Scenes for simulations
+scenes/
+
+# Simulation data
+simulations/
+
+# IDE configuration
+.idea/
+.ipynb_checkpoints/
+.vscode/
+
+# Editor backup copies
+*~
+*.bak
+*.old
+*.swp
+
+# macOS
+.DS_Store
